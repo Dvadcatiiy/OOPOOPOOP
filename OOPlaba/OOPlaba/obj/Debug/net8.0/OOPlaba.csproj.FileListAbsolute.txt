@@ -1,0 +1,14 @@
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\bin\Debug\net8.0\OOPlaba.exe
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\bin\Debug\net8.0\OOPlaba.deps.json
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\bin\Debug\net8.0\OOPlaba.runtimeconfig.json
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\bin\Debug\net8.0\OOPlaba.dll
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\bin\Debug\net8.0\OOPlaba.pdb
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\obj\Debug\net8.0\OOPlaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\obj\Debug\net8.0\OOPlaba.AssemblyInfoInputs.cache
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\obj\Debug\net8.0\OOPlaba.AssemblyInfo.cs
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\obj\Debug\net8.0\OOPlaba.csproj.CoreCompileInputs.cache
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\obj\Debug\net8.0\OOPlaba.dll
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\obj\Debug\net8.0\refint\OOPlaba.dll
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\obj\Debug\net8.0\OOPlaba.pdb
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\obj\Debug\net8.0\OOPlaba.genruntimeconfig.cache
+C:\Users\diman\source\repos\OOPlaba\OOPlaba\obj\Debug\net8.0\ref\OOPlaba.dll

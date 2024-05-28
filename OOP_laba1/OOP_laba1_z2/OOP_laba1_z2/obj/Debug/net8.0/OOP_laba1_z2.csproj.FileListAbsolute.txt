@@ -1,0 +1,14 @@
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\obj\Debug\net8.0\OOP_laba1_z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\obj\Debug\net8.0\OOP_laba1_z2.AssemblyInfoInputs.cache
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\obj\Debug\net8.0\OOP_laba1_z2.AssemblyInfo.cs
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\obj\Debug\net8.0\OOP_laba1_z2.csproj.CoreCompileInputs.cache
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\bin\Debug\net8.0\OOP_laba1_z2.exe
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\bin\Debug\net8.0\OOP_laba1_z2.deps.json
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\bin\Debug\net8.0\OOP_laba1_z2.runtimeconfig.json
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\bin\Debug\net8.0\OOP_laba1_z2.dll
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\bin\Debug\net8.0\OOP_laba1_z2.pdb
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\obj\Debug\net8.0\OOP_laba1_z2.dll
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\obj\Debug\net8.0\refint\OOP_laba1_z2.dll
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\obj\Debug\net8.0\OOP_laba1_z2.pdb
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\obj\Debug\net8.0\OOP_laba1_z2.genruntimeconfig.cache
+C:\Users\diman\source\repos\OOP_laba1_z2\OOP_laba1_z2\obj\Debug\net8.0\ref\OOP_laba1_z2.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diman\\Downloads\\Maksimova_Anna_Lab1-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C074782-5210-40A0-9229-FDDBC83DE7A0}|lab1\\lab1.csproj|c:\\users\\diman\\downloads\\maksimova_anna_lab1-master\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C074782-5210-40A0-9229-FDDBC83DE7A0}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5549EFD3-408C-4A54-8F2C-0CDDDA3BD207}|TestRational\\TestRational.csproj|c:\\users\\diman\\downloads\\maksimova_anna_lab1-master\\testrational\\testrational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5549EFD3-408C-4A54-8F2C-0CDDDA3BD207}|TestRational\\TestRational.csproj|solutionrelative:testrational\\testrational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C074782-5210-40A0-9229-FDDBC83DE7A0}|lab1\\lab1.csproj|c:\\users\\diman\\downloads\\maksimova_anna_lab1-master\\lab1\\rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C074782-5210-40A0-9229-FDDBC83DE7A0}|lab1\\lab1.csproj|solutionrelative:lab1\\rational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\Downloads\\Maksimova_Anna_Lab1-master\\lab1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\diman\\Downloads\\Maksimova_Anna_Lab1-master\\lab1\\Program.cs",
+              "RelativeToolTip": "lab1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:29:55.625Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rational.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\Downloads\\Maksimova_Anna_Lab1-master\\lab1\\Rational.cs",
+              "RelativeDocumentMoniker": "lab1\\Rational.cs",
+              "ToolTip": "C:\\Users\\diman\\Downloads\\Maksimova_Anna_Lab1-master\\lab1\\Rational.cs",
+              "RelativeToolTip": "lab1\\Rational.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:30:38.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestRational.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\Downloads\\Maksimova_Anna_Lab1-master\\TestRational\\TestRational.cs",
+              "RelativeDocumentMoniker": "TestRational\\TestRational.cs",
+              "ToolTip": "C:\\Users\\diman\\Downloads\\Maksimova_Anna_Lab1-master\\TestRational\\TestRational.cs",
+              "RelativeToolTip": "TestRational\\TestRational.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAAK0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:15:47.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

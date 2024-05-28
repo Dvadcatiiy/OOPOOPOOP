@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diman\\source\\repos\\OOP_laba1_z3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D85F89-9310-4912-9D6A-489EAC17A3AC}|OOP_laba1_z3\\OOP_laba1_z3.csproj|c:\\users\\diman\\source\\repos\\oop_laba1_z3\\oop_laba1_z3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D85F89-9310-4912-9D6A-489EAC17A3AC}|OOP_laba1_z3\\OOP_laba1_z3.csproj|solutionrelative:oop_laba1_z3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D85F89-9310-4912-9D6A-489EAC17A3AC}|OOP_laba1_z3\\OOP_laba1_z3.csproj|c:\\users\\diman\\source\\repos\\oop_laba1_z3\\oop_laba1_z3\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D85F89-9310-4912-9D6A-489EAC17A3AC}|OOP_laba1_z3\\OOP_laba1_z3.csproj|solutionrelative:oop_laba1_z3\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\source\\repos\\OOP_laba1_z3\\OOP_laba1_z3\\Tree.cs",
+              "RelativeDocumentMoniker": "OOP_laba1_z3\\Tree.cs",
+              "ToolTip": "C:\\Users\\diman\\source\\repos\\OOP_laba1_z3\\OOP_laba1_z3\\Tree.cs",
+              "RelativeToolTip": "OOP_laba1_z3\\Tree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:04:20.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diman\\source\\repos\\OOP_laba1_z3\\OOP_laba1_z3\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_laba1_z3\\Program.cs",
+              "ToolTip": "C:\\Users\\diman\\source\\repos\\OOP_laba1_z3\\OOP_laba1_z3\\Program.cs",
+              "RelativeToolTip": "OOP_laba1_z3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:03:55.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
